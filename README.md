@@ -8,10 +8,10 @@ This course is an advanced version of the undergraduate course "Introduction to 
 ## homework_1 Compiling Linux Kernel and Adding Custom System Calls
 [Compiling Linux Kernel and Adding Custom System Calls Spec](https://hackmd.io/@Bmch4MS0Rz-VZWB74huCvw/B1b2S_Kl6)
 1. Compiling Linux Kernel
-  a. Change kernel suffix
+  a. `Change kernel suffix`
 2. Adding Custom System Calls
-  a. sys_hello
-  b. sys_revstr
+  a. `sys_hello`
+  b. `sys_revstr`
 
 ## homework_2 Scheduling Policy Demonstration Program
 [Scheduling Policy Demonstration Program](https://hackmd.io/@Bmch4MS0Rz-VZWB74huCvw/rJ8OLx6fp)
